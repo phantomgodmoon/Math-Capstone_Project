@@ -1,7 +1,7 @@
 # Math-Capstone-Project, including:
-<h1> Statistical Research (Normality, Stationarity, Volatility modeling)
-<h1> Option pricing
-<h1> Monte Carlos Simulation (GBM)
-<h1> Deep learning -- MLP, LSTM 
-<h1> K-means Clustering Pairs Trading
-<h1> Markowitz Portfolio Optimization
+Statistical Research (Normality, Stationarity, Volatility modeling)
+Option pricing
+Monte Carlos Simulation (GBM)
+Deep learning -- MLP, LSTM 
+K-means Clustering Pairs Trading
+Markowitz Portfolio Optimization
